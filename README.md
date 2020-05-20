@@ -1,5 +1,17 @@
 ## Re-implementation of HORDE (harmonized representation learning on dynamic EHR)
 Here is the PyTorch version for re-implementation of HORDE
+The HORDE article:
+
+```
+@article {lee2020harmonized,
+title = {Harmonized representation learning on dynamic EHR graphs},
+author = {Lee, Dongha and Jiang, Xiaoqian and Yu, Hwanjo},
+volume = {106},
+year = {2020},
+journal = {Journal of biomedical informatics},
+pages = {103426}
+}
+```
 
 ### Data Description
 data directory: ./data/
