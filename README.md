@@ -1,4 +1,4 @@
-##Re-implementation of HORDE (harmonized representation learning on dynamic EHR)
+## Re-implementation of HORDE (harmonized representation learning on dynamic EHR)
 Here is the PyTorch version for re-implementation of HORDE
 
 ### Data Description
